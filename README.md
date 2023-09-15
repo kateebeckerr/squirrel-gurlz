@@ -66,3 +66,9 @@ https://matplotlib.org/stable/tutorials/colors/colormaps.html
 https://chat.openai.com/
 
 https://www.gabemednick.com/post/penguin/
+
+https://seaborn.pydata.org/generated/seaborn
+
+https://www.statology.org/seaborn-title/
+
+https://matplotlib.org/stable/index.html
